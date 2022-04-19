@@ -9,7 +9,8 @@ let segunda = Math.floor(Math.random() * 5);
 let tercera = Math.floor(Math.random() * 4);
 let cuarta = Math.floor(Math.random() * 6);
 
-console.log(who[primera]+""+action[segunda]+""+ what[tercera]+""+when[cuarta])
+//console.log(who[primera]+""+action[segunda]+""+ what[tercera]+""+when[cuarta])
+console.log(`${who[primera]} ${action[segunda]} ${what[tercera]} ${when[cuarta]}`)
 
 
 
